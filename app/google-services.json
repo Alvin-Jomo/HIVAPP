@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "161618944396",
+    "firebase_url": "https://hiv-app-d0018-default-rtdb.firebaseio.com",
+    "project_id": "hiv-app-d0018",
+    "storage_bucket": "hiv-app-d0018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161618944396:android:085028562f86c6040ef6a9",
+        "android_client_info": {
+          "package_name": "com.example.hivapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCirVoPjHhB8o5NK6Hy9QfsUvZUd_j8Ib8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

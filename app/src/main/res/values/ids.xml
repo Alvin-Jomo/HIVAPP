@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextLoginPassword" type="id" />
+    <item name="cardLogOut" type="id" />
+    <item name="totalCount" type="id" />
+    <item name="reportType" type="id" />
+</resources>
